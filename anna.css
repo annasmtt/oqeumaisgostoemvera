@@ -1,0 +1,71 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+    }
+
+    h1 a {
+        color: #3a5d70;
+        text-decoration: none;
+        }
+       
+      h2 a {
+            color: #5a7e92;
+            text-decoration: none;
+         }    
+
+         
+
+    body {
+        
+        background: #dbe5eb;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+        line-height: 1.5;
+        color: #5b798a;
+        text-decoration: none;}
+        
+        .sidenote {
+            background-color: #b0d4e7;
+            border: 1px solid #668aa0;
+            float: right;
+            padding: 10px;
+            width: 260px;
+            }
+            .sidenote h3 {
+            font-size: 14px;
+            margin-top: 0;
+            }
+            .sidenote ol {
+            font-size: 12px;
+            }
+
+        .footer {
+            font-size: 12px;
+            text-align: center;
+            }
+            
+
+        
+        .place img {
+            border: 1px solid #80adc5;
+            float: right;
+            margin: 10px 10px 0 0;
+            padding: 2px;
+            width: 250px;
+            }
+
+     
+        .place {
+            border-color: #6E98AF #6E98AF #6E98AF #6E98AF;
+            border: 5px solid #6E98AF;
+            margin-bottom: 20px;
+            padding: 2px;
+            }
+               
+            .clear {
+                clear: both;
+                }
+
+                .places {
+                    float: left;
+                    width: 660px;
+                    }
